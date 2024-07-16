@@ -1,0 +1,122 @@
+/* Global Styles */
+body {
+  font-family: Arial, sans-serif; /* Use your desired font family */
+}
+
+/* Styles for the container div */
+.mb-24 {
+  margin-bottom: 24px;
+}
+
+.my-12 {
+  margin-top: 12px;
+  margin-bottom: 12px;
+}
+
+.mx-auto {
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.max-h-screen {
+  max-height: 100vh;
+}
+
+/* Styles for the text-center class */
+.text-center {
+  text-align: center;
+}
+
+/* Styles for the h-full class */
+.h-full {
+  height: 100%;
+}
+
+.mt-10 {
+  margin-top: 10px;
+}
+
+/* Styles for the flex class */
+.flex {
+  display: flex;
+}
+
+.flex-col {
+  flex-direction: column;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.space-x-3 {
+  gap: 0.75rem; /* Adjust as needed */
+}
+
+/* Styles for text-secondary class */
+.text-secondary {
+  color: #555; /* Use your desired secondary text color */
+}
+
+/* Styles for the text-2xl and text-3xl classes */
+.text-2xl {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+  color: green;
+}
+
+.text-3xl {
+  font-size: 2rem;
+}
+
+/* Styles for the helveticaMedium class */
+.helveticaMedium {
+  font-family: "Helvetica Neue", sans-serif; /* Use your desired font */
+  font-weight: 500;
+}
+
+/* Styles for the ml-12 class */
+.ml-12 {
+  margin-left: 12px;
+}
+
+/* Styles for the px-8 class */
+.px-8 {
+  padding-left: 2rem; /* Adjust as needed */
+  padding-right: 2rem; /* Adjust as needed */
+  line-height: 1.35rem;
+  margin-bottom: 1rem;
+}
+
+/* Styles for the font-semibold class */
+.font-semibold {
+  font-weight: 600;
+}
+
+/* Styles for the btn class */
+.btn {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  background-color: #000; /* Use your desired button background color */
+  color: #fff; /* Use your desired button text color */
+  cursor: not-allowed;
+  opacity: 1;
+  text-decoration: none;
+  border: none;
+  border-radius: 0.25rem; /* Adjust as needed */
+  width: auto;
+  height: auto;
+}
+
+.success-icon {
+  height: 4rem;
+  width: 4rem;
+  color: green;
+  margin: 5rem 2rem 2rem 2rem;
+}
+
+/* Hover effect for the btn class (optional) */
